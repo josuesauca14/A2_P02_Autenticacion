@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Usuarios de prueba 
+
+| Rol    | Email                                           | Password |
+| ------ | ----------------------------------------------- | -------- |
+| Admin  | [admin@example.com](mailto:admin@example.com)   | password |
+| Editor | [editor@example.com](mailto:editor@example.com) | password |
+| User   | [user@example.com](mailto:user@example.com)     | password |
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
